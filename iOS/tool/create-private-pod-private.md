@@ -67,4 +67,6 @@ xxxx为我们私有库的地址，这样就完成了
 # 参考文章
 [私有库的创建](https://www.jianshu.com/p/0c640821b36f)
 [公有库的创建](http://qiubaiying.top/2017/03/08/CocoaPods公有仓库的创建/)
+[cocoaPods的学习和使用](http://luoxianming.cn/2016/03/27/CocoaPods/)
+
 
