@@ -9,7 +9,7 @@ categories: [iOS]
 # 本地建一个库
 ## 创建
 ```
-    pod spec create xxxx
+    pod lib create xxxx
 ```
 ![](https://img.wxz.name/15250836204894.jpg)
 
