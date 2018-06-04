@@ -9,6 +9,8 @@
         - [通过Reveal分析视图层级](iOS/tool/Reveal.md)
         - [对app进行重签名](iOS/tool/ios-resign.md)
         - [创建自己的pod库](iOS/tool/create-private-pod-private.md)
+* [机器学习]()
+    - [训练一个自己的模型](machine/begin.md)
 * [操作系统]()
     - [程序员的自我修养阅读笔记](system/readczxt.md)   
 * [Other]()
