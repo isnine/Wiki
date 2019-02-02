@@ -4,7 +4,11 @@
 
 ## iOS
 
-* [设计模式](ios/she-ji-mo-shi.md)
+* [设计模式](ios/she-ji-mo-shi/README.md)
+  * [23个经典设计模式的Swift实现](ios/she-ji-mo-shi/23-ge-jing-dian-she-ji-mo-shi-de-swift-shi-xian.md)
+  * [结构型模式](ios/she-ji-mo-shi/jie-gou-xing-mo-shi.md)
+  * [创建型模式](ios/she-ji-mo-shi/chuang-jian-xing-mo-shi.md)
+  * [六大设计原则](ios/she-ji-mo-shi/mian-xiang-dui-xiang-she-ji-de-liu-da-she-ji-yuan-ze.md)
 * [知识](ios/zhi-shi/README.md)
   * [撤销管理器-UndoManager](ios/zhi-shi/ios-undomanager.md)
   * [关于copy和strong关键词](ios/zhi-shi/copyvsstrong.md)
