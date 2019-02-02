@@ -1,20 +1,26 @@
 # Table of contents
 
-* [简介](README.md)
-* [iOS开发](ios-kai-fa/README.md)
-  * [知识](ios-kai-fa/zhi-shi/README.md)
-    * [撤销管理器-UndoManager](ios-kai-fa/zhi-shi/ios-undomanager.md)
-    * [关于copy和strong关键词](ios-kai-fa/zhi-shi/copyvsstrong.md)
-  * [Tool](ios-kai-fa/tool/README.md)
-    * [通过Reveal分析视图层级](ios-kai-fa/tool/reveal.md)
-    * [对app进行重签名](ios-kai-fa/tool/ios-resign.md)
-    * [创建自己的pod库](ios-kai-fa/tool/create-private-pod-private.md)
-* [Other](other/README.md)
-  * [操作系统](other/cao-zuo-xi-tong/README.md)
-    * [程序员的自我修养阅读笔记](other/cao-zuo-xi-tong/readczxt.md)
-  * [机器学习](other/ji-qi-xue-xi/README.md)
-    * [训练一个自己的模型](other/ji-qi-xue-xi/begin.md)
-  * [搭建一个自己的梯子](other/build-shadowsocks.md)
-  * [搭建一个自己的git管理-gogs](other/build-gogs.md)
-  * [学生申请github大礼包](other/registeremail.md)
+* [Home](README.md)
+
+## iOS
+
+* [设计模式](ios/she-ji-mo-shi.md)
+* [知识](ios/zhi-shi/README.md)
+  * [撤销管理器-UndoManager](ios/zhi-shi/ios-undomanager.md)
+  * [关于copy和strong关键词](ios/zhi-shi/copyvsstrong.md)
+* [Tool](ios/tool/README.md)
+  * [通过Reveal分析视图层级](ios/tool/reveal.md)
+  * [对app进行重签名](ios/tool/ios-resign.md)
+  * [创建自己的pod库](ios/tool/create-private-pod-private.md)
+
+## Other
+
+* [操作系统](she-ji-mo-shi/cao-zuo-xi-tong/README.md)
+  * [程序员的自我修养阅读笔记](she-ji-mo-shi/cao-zuo-xi-tong/readczxt.md)
+* [机器学习](she-ji-mo-shi/ji-qi-xue-xi/README.md)
+  * [训练一个自己的模型](she-ji-mo-shi/ji-qi-xue-xi/begin.md)
+* [Other](she-ji-mo-shi/untitled/README.md)
+  * [搭建一个自己的梯子](she-ji-mo-shi/untitled/build-shadowsocks.md)
+  * [搭建一个自己的git管理-gogs](she-ji-mo-shi/untitled/build-gogs.md)
+  * [学生申请github大礼包](she-ji-mo-shi/untitled/registeremail.md)
 
