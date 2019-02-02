@@ -1,8 +1,8 @@
----
-description: '作者:darrenzheng 转自:https://juejin.im/post/5aaa2943f265da239c7b15c4'
----
-
 # 23个经典设计模式的Swift实现
+
+> 作者:darrenzheng 
+>
+> 转自:[https://juejin.im/post/5aaa2943f265da239c7b15c4](https://juejin.im/post/5aaa2943f265da239c7b15c4)
 
 ## 前言
 

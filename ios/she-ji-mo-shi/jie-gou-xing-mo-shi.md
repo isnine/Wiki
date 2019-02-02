@@ -1,8 +1,8 @@
----
-description: '作者:J_Knight_  转自:https://juejin.im/post/5bfd60455188257a5a24f2d4'
----
-
 # 结构型模式
+
+> 作者:J_Knight_ 
+>
+> 转自:[https://juejin.im/post/5bfd60455188257a5a24f2d4](https://juejin.im/post/5bfd60455188257a5a24f2d4)
 
 本篇是面向对象设计系列文章的第三篇，讲解的是设计模式中的结构型模式：
 

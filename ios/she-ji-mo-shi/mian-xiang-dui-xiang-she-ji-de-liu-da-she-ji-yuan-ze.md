@@ -1,8 +1,8 @@
----
-description: '作者:J_Knight_   转自: https://juejin.im/post/5b9526c1e51d450e69731dc2'
----
-
 # 六大设计原则
+
+> 作者:J\_Knight\_ 
+>
+> 转自: https://juejin.im/post/5b9526c1e51d450e69731dc2
 
 ## 学习初衷与讲解方式
 

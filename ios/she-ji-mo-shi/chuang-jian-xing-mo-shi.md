@@ -1,8 +1,8 @@
----
-description: '作者:J_Knight_  转自:https://juejin.im/post/5bcb0362e51d450e7042eb6d'
----
-
 # 创建型模式
+
+> 作者:J_Knight_ 
+>
+> 转自:[https://juejin.im/post/5bcb0362e51d450e7042eb6d](https://juejin.im/post/5bcb0362e51d450e7042eb6d)
 
 介绍设计模式最著名的一本书莫属《设计模式 可复用面向对象软件的基础》这本书，书中共介绍了23个设计模式。而这些设计模式分为三大类：
 
