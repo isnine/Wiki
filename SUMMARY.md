@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Home](README.md)
-* [.几数之和](.-ji-shu-zhi-he.md)
 
 ## iOS
 
@@ -32,5 +31,6 @@
   * [搭建一个自己的梯子](she-ji-mo-shi/untitled/build-shadowsocks.md)
   * [搭建一个自己的git管理-gogs](she-ji-mo-shi/untitled/build-gogs.md)
   * [学生申请github大礼包](she-ji-mo-shi/untitled/registeremail.md)
-* [LeetCode](she-ji-mo-shi/leetcode.md)
+* [LeetCode](she-ji-mo-shi/leetcode/README.md)
+  * [几数之和](she-ji-mo-shi/leetcode/.-ji-shu-zhi-he.md)
 
