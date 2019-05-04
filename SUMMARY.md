@@ -32,5 +32,6 @@
   * [搭建一个自己的git管理-gogs](she-ji-mo-shi/untitled/build-gogs.md)
   * [学生申请github大礼包](she-ji-mo-shi/untitled/registeremail.md)
 * [LeetCode](she-ji-mo-shi/leetcode/README.md)
+  * [Dynamic planning](she-ji-mo-shi/leetcode/dynamic-planning.md)
   * [几数之和](she-ji-mo-shi/leetcode/.-ji-shu-zhi-he.md)
 
